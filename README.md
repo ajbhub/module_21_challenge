@@ -204,7 +204,7 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 
 #### Evidence Evaluation
 
-![image](evaluation_evidence\compiled_token_contract.PNG)
-![image](evaluation_evidence\crowdsale_compiled.PNG)
-![image](evaluation_evidence\deployer_compiled.PNG)
-![image](evaluation_evidence\compiled_token_contract.PNG)
+![image](evaluation_evidence/compiled_token_contract.PNG)
+![image](evaluation_evidence/crowdsale_compiled.PNG)
+![image](evaluation_evidence/deployer_compiled.PNG)
+![image](evaluation_evidence/compiled_token_contract.PNG)
